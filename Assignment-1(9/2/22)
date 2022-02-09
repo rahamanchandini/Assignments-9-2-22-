@@ -1,0 +1,20 @@
+Assignment-1:
+------------------------
+Write a Python program to print biggest of 2 numbers.
+#To find Biggest number
+a=float(input('Enter a first number:))
+b=float(input('Enter second number:))
+if a>b:
+     print('Fisrt number is the biggest number')
+else:
+     print('Second number is biggest number')
+
+O/p:
+-------
+Enter a first number:9
+Enter second number:3
+Fisrt number is the biggest number
+--------------------------------------------------------------
+Enter a first number:52.03
+Enter second number:52.06
+Second number is biggest number
